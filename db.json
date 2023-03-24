@@ -1,0 +1,238 @@
+{
+    "cart": [
+        {
+            "user": 2,
+            "cart_items": [
+                {
+                    "id": 10,
+                    "product": {
+                        "vendorСode": "A066223",
+                        "price": 6000,
+                        "packing": 3,
+                        "color": 2
+                    },
+                    "product_id": "A066223",
+                    "quantity": 1,
+                    "sale_price": 5400,
+                    "sum_price": 5400,
+                    "sum_weight": 30
+                },
+                {
+                    "id": 11,
+                    "product": {
+                        "vendorСode": "A5155456",
+                        "price": 15000,
+                        "packing": 1,
+                        "color": 3
+                    },
+                    "product_id": "A5155456",
+                    "quantity": 1,
+                    "sale_price": 13500,
+                    "sum_price": 13500,
+                    "sum_weight": 100
+                },
+                {
+                    "id": 12,
+                    "product": {
+                        "vendorСode": "A066222",
+                        "price": 2000,
+                        "packing": 5,
+                        "color": 1
+                    },
+                    "product_id": "A066222",
+                    "quantity": 1,
+                    "sale_price": 1000,
+                    "sum_price": 1000,
+                    "sum_weight": 20
+                },
+                {
+                    "id": 13,
+                    "product": {
+                        "vendorСode": "A066222",
+                        "price": 2000,
+                        "packing": 5,
+                        "color": 1
+                    },
+                    "product_id": "A066222",
+                    "quantity": 2,
+                    "sale_price": 1000,
+                    "sum_price": 2000,
+                    "sum_weight": 40
+                },
+                {
+                    "id": 14,
+                    "product": {
+                        "vendorСode": "A066222",
+                        "price": 2000,
+                        "packing": 5,
+                        "color": 1
+                    },
+                    "product_id": "A066222",
+                    "quantity": 1,
+                    "sale_price": 1000,
+                    "sum_price": 1000,
+                    "sum_weight": 20
+                },
+                {
+                    "id": 15,
+                    "product": {
+                        "vendorСode": "A066223",
+                        "price": 6000,
+                        "packing": 3,
+                        "color": 2
+                    },
+                    "product_id": "A066223",
+                    "quantity": 1,
+                    "sale_price": 5400,
+                    "sum_price": 5400,
+                    "sum_weight": 30
+                },
+                {
+                    "id": 16,
+                    "product": {
+                        "vendorСode": "A066223",
+                        "price": 6000,
+                        "packing": 3,
+                        "color": 2
+                    },
+                    "product_id": "A066223",
+                    "quantity": 1,
+                    "sale_price": 5400,
+                    "sum_price": 5400,
+                    "sum_weight": 30
+                },
+                {
+                    "id": 17,
+                    "product": {
+                        "vendorСode": "A066223",
+                        "price": 6000,
+                        "packing": 3,
+                        "color": 2
+                    },
+                    "product_id": "A066223",
+                    "quantity": 2,
+                    "sale_price": 5400,
+                    "sum_price": 10800,
+                    "sum_weight": 60
+                }
+            ],
+            "cart_sum_price": 44500,
+            "cart_sum_weight": 330,
+            "cart_sum_count": 10
+        }
+    ],
+    "cart_item": [
+        {
+            "id": 10,
+            "product": {
+                "vendorСode": "A066223",
+                "price": 6000,
+                "packing": 3,
+                "color": 2
+            },
+            "product_id": "A066223",
+            "quantity": 1,
+            "sale_price": 5400,
+            "sum_price": 5400,
+            "sum_weight": 30
+        },
+        {
+            "id": 11,
+            "product": {
+                "vendorСode": "A5155456",
+                "price": 15000,
+                "packing": 1,
+                "color": 3
+            },
+            "product_id": "A5155456",
+            "quantity": 1,
+            "sale_price": 13500,
+            "sum_price": 13500,
+            "sum_weight": 100
+        },
+        {
+            "id": 12,
+            "product": {
+                "vendorСode": "A066222",
+                "price": 2000,
+                "packing": 5,
+                "color": 1
+            },
+            "product_id": "A066222",
+            "quantity": 1,
+            "sale_price": 1000,
+            "sum_price": 1000,
+            "sum_weight": 20
+        },
+        {
+            "id": 13,
+            "product": {
+                "vendorСode": "A066222",
+                "price": 2000,
+                "packing": 5,
+                "color": 1
+            },
+            "product_id": "A066222",
+            "quantity": 2,
+            "sale_price": 1000,
+            "sum_price": 2000,
+            "sum_weight": 40
+        },
+        {
+            "id": 14,
+            "product": {
+                "vendorСode": "A066222",
+                "price": 2000,
+                "packing": 5,
+                "color": 1
+            },
+            "product_id": "A066222",
+            "quantity": 1,
+            "sale_price": 1000,
+            "sum_price": 1000,
+            "sum_weight": 20
+        },
+        {
+            "id": 15,
+            "product": {
+                "vendorСode": "A066223",
+                "price": 6000,
+                "packing": 3,
+                "color": 2
+            },
+            "product_id": "A066223",
+            "quantity": 1,
+            "sale_price": 5400,
+            "sum_price": 5400,
+            "sum_weight": 30
+        },
+        {
+            "id": 16,
+            "product": {
+                "vendorСode": "A066223",
+                "price": 6000,
+                "packing": 3,
+                "color": 2
+            },
+            "product_id": "A066223",
+            "quantity": 1,
+            "sale_price": 5400,
+            "sum_price": 5400,
+            "sum_weight": 30
+        },
+        {
+            "id": 17,
+            "product": {
+                "vendorСode": "A066223",
+                "price": 6000,
+                "packing": 3,
+                "color": 2
+            },
+            "product_id": "A066223",
+            "quantity": 2,
+            "sale_price": 5400,
+            "sum_price": 10800,
+            "sum_weight": 60
+        }
+    ]
+}
